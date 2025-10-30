@@ -142,7 +142,7 @@ export default function AddEventPage() {
 
   return (
     <section className="h-130">
-      <div className="max-w-3xl mx-auto mt-20 mb-28 p-4 sm:p-6 bg-white shadow-md rounded-md">
+      <div className="max-w-3xl mx-auto mt-20 mb-2 p-4 sm:p-6 bg-white shadow-md rounded-md">
         <h2 className="text-2xl font-bold mb-6 text-rose-700 text-center sm:text-left">
           Add Event
         </h2>
